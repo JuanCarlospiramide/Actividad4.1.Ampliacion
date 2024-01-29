@@ -1,0 +1,33 @@
+<? xml version="1.0" encoding="UTF-8" ?>
+
+<catalogo>
+    
+    <producto id="1">
+        <nombre>Bicicleta</nombre>
+        <descripcion>Bicicleta para montaña</descripcion>
+        <listaCaracteristicas>
+            <caracteristica id ="1">
+                <nombre>Bici de montaña</nombre>
+            </caracteristica>
+            <caracteristica id="2">
+                <nombre>Frenos de discos</nombre>
+            </caracteristica>
+        
+        </listaCaracteristicas>
+    </producto>
+    <producto id="2">
+        <nombre>Balón de fútbol</nombre>
+        <descripcion>Balón oficial de la Liga</descripcion>
+        <listaCaracteristicas>
+            <caracteristica id ="1">
+                <nombre>Balón Puma de la Liga 23/24</nombre>
+            
+            </caracteristica>
+            <caracteristica id="2">
+                <nombre>Hecha de los mejores materiales</nombre>
+            </caracteristica>
+        
+        </listaCaracteristicas>
+    </producto>
+
+</catalogo>
